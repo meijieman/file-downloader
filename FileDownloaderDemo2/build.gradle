@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 15
+    compileSdkVersion 22
     buildToolsVersion "23.0.3"
 
     defaultConfig {
         applicationId "org.wlf.filedownloader_demo2"
-        minSdkVersion 15
-        targetSdkVersion 15
+        minSdkVersion 16
+        targetSdkVersion 22
         versionCode 7
         versionName "0.3.2"
     }
